@@ -1,11 +1,25 @@
-### Hi there, I'm [Kauã!](https://kauagvs.github.io) 👋
 
-<br />
-<br />
+<h1 align='center'>
+  Hi there, I'm [Kauã!](https://kauagvs.github.io) 👋
+</h1>
 
-Hi, I'm Kauã Semenov, a passionate self-taught FrontEnd developer from India.
+<p align='center'>
+  A front-end developer from São Paulo, Brazil.
+</p>
 
-- 🌱 I’m currently learning ReactJS
+
+<p align='center'>
+ 
+  <a href="https://www.linkedin.com/in/kauasemenov/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kauagvs&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 
 **Languages and Tools:**  
 
