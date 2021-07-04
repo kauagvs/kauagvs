@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hi there, I'm [Kauã!](https://kauagvs.github.io) 👋
+  Hi there, I'm Kauã! 👋
 </h1>
 
 <p align='center'>
